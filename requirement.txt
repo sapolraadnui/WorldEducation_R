@@ -1,0 +1,7 @@
+shiny
+bslib
+dplyr
+tidyr
+readr
+plotly
+DT
