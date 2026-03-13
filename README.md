@@ -37,8 +37,6 @@ Access the deployed dashboard here:
 
 ### Installation
 
-#### Option 1: Using Conda (Recommended)
-
 ```bash
 # Clone the repository
 git clone https://github.com/sapolraadnui/WorldEducation_R.git
@@ -49,21 +47,6 @@ conda env create -f environment.yml
 
 # Activate the environment
 conda activate worldeducation-r
-```
-
-#### Option 2: Using pip
-
-```bash
-# Clone the repository
-git clone https://github.com/sapolraadnui/WorldEducation_R.git
-cd WorldEducation_R
-
-# Create a virtual environment (optional but recommended)
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirement.txt
 ```
 
 ### Running the App Locally
