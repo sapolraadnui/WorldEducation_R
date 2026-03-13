@@ -1,0 +1,12 @@
+name: worldeducation-r
+channels:
+  - conda-forge
+dependencies:
+  - r-base=4.3
+  - r-shiny
+  - r-bslib
+  - r-dplyr
+  - r-tidyr
+  - r-readr
+  - r-plotly
+  - r-dt
